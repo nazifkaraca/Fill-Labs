@@ -1,6 +1,6 @@
 module q4/backend
 
-go 1.23.4
+go 1.20
 
 require (
 	github.com/felixge/httpsnoop v1.0.4 // indirect
