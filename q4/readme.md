@@ -219,11 +219,11 @@ networks:
 
 ### Master View
 
-![image](https://github.com/user-attachments/assets/235ea98b-765e-40bd-b53c-6f47ba403b7b)
+![image](https://github.com/user-attachments/assets/599ec8e1-78fa-4cbf-b3cd-22a04847c9ca)
 
 ### Detail View
 
-![image](https://github.com/user-attachments/assets/cf4395ad-ff55-4233-b440-ea2a9acdd2a7)
+![image](https://github.com/user-attachments/assets/ca83d3f6-e8df-42e8-8c82-080a49d48fc0)
 
 ---
 
