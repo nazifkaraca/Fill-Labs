@@ -28,20 +28,13 @@ The most repeated element is: apple
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
-   ```
-
-2. Build or run the program:
+1. Build or run the program:
 
    ```bash
    go run main.go
    ```
 
-3. Modify the `data` variable in `main.go` to test with different inputs.
+2. Modify the `data` variable in `main.go` to test with different inputs.
 
 ## 🧪 How It Works
 
