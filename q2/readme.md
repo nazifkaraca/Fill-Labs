@@ -36,14 +36,7 @@ For an input of `9`, the program outputs:
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
-   ```
-
-2. Build or run the program:
+1. Build or run the program:
 
    - **With Command-Line Argument**:
      ```bash
@@ -55,7 +48,7 @@ For an input of `9`, the program outputs:
      Enter a positive integer: 25
      ```
 
-3. The output will display the sequence.
+2. The output will display the sequence.
 
 ## 🧪 How It Works
 
