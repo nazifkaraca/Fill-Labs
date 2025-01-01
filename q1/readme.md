@@ -20,8 +20,6 @@ This project implements a Go function to sort words based on:
 ["aaaasd", "a", "aab", "aaabcd", "ef", "csssssssd", "fdz", "kf", "zc", "lklklklklklklklkl", "l"]
 ```
 
-````
-
 ## 🎉 Output Example
 
 ```go
@@ -30,20 +28,13 @@ This project implements a Go function to sort words based on:
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
-   ```
-
-2. Run the program:
+1. Run the program:
 
    ```bash
    go run main.go
    ```
 
-3. Enter words separated by spaces when prompted.
+2. Enter words separated by spaces when prompted.
 
 ## 🧪 Testing
 
@@ -109,4 +100,3 @@ This project implements a Go function to sort words based on:
 │-- main.go        // Main sorting functionality
 │-- main_test.go   // Unit tests
 ```
-````
